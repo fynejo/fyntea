@@ -23,7 +23,7 @@ class FynTea {
     }
   
     addSweetener(sweetener) {
-      console.log(`Adding a touch of ${sweetener} for the perfect sweetness.`);
+      console.log(`Adding a touch ${sweetener} for the perfect sweetness.`);
     }
   
     enjoyTea() {
